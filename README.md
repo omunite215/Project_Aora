@@ -1,4 +1,4 @@
-# Project-Aora
+# Project Aora
 
 A Full Stack Video Sharing Platform based Native Mobile Application built on React-Native
 
@@ -8,11 +8,11 @@ You can also give this repository a star to show more people and they can use th
 
 ## 🏠 Built With:
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,react,nextjs,nodejs,tailwind,emotion,prisma,sequelize,postman,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=appwrite,react,bun,nodejs,tailwind,postman,vscode,arch)](https://skillicons.dev)
 
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,mysql,postman,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,appwrite,postman,git,github)](https://skillicons.dev)
 
 
 ## 🙋‍♂️ Connect With Me
