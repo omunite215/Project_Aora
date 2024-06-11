@@ -8,7 +8,7 @@ You can also give this repository a star to show more people and they can use th
 
 ## 🏠 Built With:
 
-[![My Skills](https://skillicons.dev/icons?i=appwrite,react,bun,nodejs,tailwind,postman,vscode,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=appwrite,react,figma,bun,nodejs,tailwind,postman,vscode,arch)](https://skillicons.dev)
 
 ## 🛠 Skills
 
